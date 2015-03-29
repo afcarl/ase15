@@ -2,18 +2,14 @@
 
 ## For your career
 
-### Short-term
-
-You will be the world's greatest Python programmer by the time we are done. Promise. And that is no bad thing:
+To help your short term goals of earning lots on money, this subject will make you  be the world's greatest Python programmer by the time we are done.  And that is no bad thing:
 
 ![Python pop](http://edge.alluremedia.com.au/m/l/2014/02/codeeval2014.jpg)
 
 ![Python salaries](http://www.gobrightwing.com/wp-content/uploads/2015/03/programming-languages.jpg)
 
-### Long term
-
+But also, this subject could also help you stay ahead of the game for decades to come.
 This subject is a bet on the future of SE. 
-
 In  traditional manual software engineering, engineers laboriously convert (by hand) non-executable paper models into executable code. 
 That traditional process has been the focus of much research.  
 
@@ -46,18 +42,15 @@ secondary screening.
 
 Given recent advances in computing hardware, software analysts either validate these models or 
 find optimal solutions by using automatic tools to explore thousands to millions of inputs for their systems. 
-Note that such tools work much faster  than humans.  
-Valerdi notes that, without automated tools, it can take days for human experts to review just a few dozen examples~\cite{valerdi11}.  
+Note that such tools work much faster  than humans.  Without automated tools, it can take days for human experts to review just a few dozen examples.  
 In that same time, an automatic tool can explore thousands to millions to billions more solutions.  
 
 ## Improve Your Skills
 
-### Become a Better Scientist
-
+**Become a Better Scientist**:
 This subject will teach you a **lot** about empirical methods and how to sample and test complex phenomena. So it is a great place to hone your skills as a scientist.
 
-## Become a Stats Guru
-
+**Become a Stats Guru**:
 More specifically, we will spend much effort on practical, fast, large scale statistical methods. 
 
 ## Study This Subject to Blow Your Mind
@@ -65,10 +58,7 @@ More specifically, we will spend much effort on practical, fast, large scale sta
 This subject is about two amazing ideas.
 After completing this subject, your view of the world will be radically different. Promise.
 
-
-
-### Evolutionary-based Computing
-
+**Evolutionary-based Computing:**
 The main tool discussed in this sibject  algorithms that explore (and sometimes combines) multiple randomly selected solutions to a program. Such evolutionary methods are very cool indeed. In 2011, the website Edge.org asked noted scientists the following question:
 
 + What is your favorite deep, elegant, or beautiful explanation?
@@ -85,8 +75,7 @@ What you get with this simple approach is quite a lot. With this kind of computa
 
 What else offers so much from so little? So one reason to explore search-based SE is that it an explanation of an powerful engineering principle that has had (and will continue to have) a massive impact on this planet.
 
-### Data Mining and Optimization
-
+**Data Mining and Optimization:**
 The more I code search algorothm and data miners, the more the code base becomes similar. Its like, under the hood, these things actually do the same thing. 
 
 Now this is not a new insight. Much prior work has commented on the profound connection between data mining and optimization. Both discover then summarize interesting regions of the data. Optimizers can then resample from that region to create new data (while data miners may have to stop at that point since there are gaps between its training data).
