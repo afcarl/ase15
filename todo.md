@@ -1,5 +1,7 @@
 # Motivation
 
+[[img/brooksLaw.png]]
+
 ## For your career
 
 **Become a Better Scientist**:
