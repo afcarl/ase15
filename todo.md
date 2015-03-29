@@ -9,7 +9,7 @@ This subject will teach you a **lot** about empirical methods and how to sample 
 More specifically, we will spend much effort on practical, fast, large scale statistical methods. 
 
 **Earn lots of money!!:**
-To help your short term goals of earning lots on money, this subject will make you  be the world's greatest Python programmer by the time we are done.  And that is no bad thing:
+This subject will make you  be the world's greatest Python programmer.  And that is no bad thing:
 
 ![Python pop](http://edge.alluremedia.com.au/m/l/2014/02/codeeval2014.jpg)
 
