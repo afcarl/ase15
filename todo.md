@@ -10,14 +10,14 @@ To help your short term goals of earning lots on money, this subject will make y
 
 But also, this subject could also help you stay ahead of the game for decades to come.
 This subject is a bet on the future of SE. 
-In  traditional manual software engineering, engineers laboriously convert (by hand) non-executable paper models into executable code. 
-That traditional process has been the focus of much research.  
 
-This subject  is about a new kind of SE which relies, at least in part, on executable models. 
-In this approach, engineers codify the current understanding of the domain into a model, 
-and then study those models.
-Many of these models are delivered as part of working systems.
-So much so that these models now
++ In  traditional manual software engineering, engineers laboriously convert (by hand) non-executable paper models into executable code. 
++ This subject  is about a new kind of SE which relies, at least in part, on executable models. 
+   In this approach, engineers codify the current understanding of the domain into a model, 
+  and then study those models. 
+
+Many of these new SE models are delivered as part of working systems.
+Those  models now
   mediate nearly all aspects of our lives:
 
 + If you
