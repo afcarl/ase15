@@ -1,6 +1,20 @@
-# Motivation
+# Automated Software Engineering, NCSU, Fall 2015
+
+What is the next "big thing" after "big data"? Well, after "data collection" comes "model construction" so the next big thing after big data will be "big modeling". In this subject, students will learn how to represent, execute, and reason about models. Our case studies will come from software engineering but the principles of this subject could be applied to models in general.
+
 
 ![Brooks](img/brookslaw.png)
+
+
+**Topics:** AI and software engineering; principles of model-based reasoning with a heavy focus on models about software engineering; search-based and evolutionary inference; representing and reasoning about models; handling uncertainty; decision making and model-based reasoning.
+
+**Project:** 700-level students will implement and reason about a large model of their own choosing (ideally, some model relating to software engineering). Optionally, 500-level students may also elect to do so.
+
+**Prerequisite:** A programming background is required in a contemporary language such as Java or C/C++ or Python. Students in this class will work in Python, but no background knowledge of that language will be assumed
+
+
+# Why take this Subject?
+
 
 ## For your career
 
