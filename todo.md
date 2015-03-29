@@ -50,7 +50,53 @@ Note that such tools work much faster  than humans.
 Valerdi notes that, without automated tools, it can take days for human experts to review just a few dozen examples~\cite{valerdi11}.  
 In that same time, an automatic tool can explore thousands to millions to billions more solutions.  
 
+## Improve Your Skills
 
-# Lecture notes
+### Become a Better Scientist
+
+This subject will teach you a **lot** about empirical methods and how to sample and test complex phenomena. So it is a great place to hone your skills as a scientist.
+
+## Become a Stats Guru
+
+More specifically, we will spend much effort on practical, fast, large scale statistical methods. 
+
+## Study This Subject to Blow Your Mind
+
+This subject is about two amazing ideas.
+After completing this subject, your view of the world will be radically different. Promise.
+
+
+
+### Evolutionary-based Computing
+
+The main tool discussed in this sibject  algorithms that explore (and sometimes combines) multiple randomly selected solutions to a program. Such evolutionary methods are very cool indeed. In 2011, the website Edge.org asked noted scientists the following question:
+
++ What is your favorite deep, elegant, or beautiful explanation?
+
+They received dozens of answers and fully a third of those responses related to evolution and natural selection. The reason was clear- in terms of requiring the least machinery and explaining the most observations, hands down, evolution is the theory of the last 200 years.
+
+What you get with this simple approach is quite a lot. With this kind of computation, you get:
+
++ Simple implementation: lots and lots of small devices;
++ Easy, coarse-grain co-ordination of effort;
++ Distributed computation, which can be parallelized;
++ Robust networks: that can survive attack and insult and death of some large percent of the network;
++ Adaptability and the generation of new ideas that have not been explored before;
+
+What else offers so much from so little? So one reason to explore search-based SE is that it an explanation of an powerful engineering principle that has had (and will continue to have) a massive impact on this planet.
+
+### Data Mining and Optimization
+
+The more I code search algorothm and data miners, the more the code base becomes similar. Its like, under the hood, these things actually do the same thing. 
+
+Now this is not a new insight. Much prior work has commented on the profound connection between data mining and optimization. Both discover then summarize interesting regions of the data. Optimizers can then resample from that region to create new data (while data miners may have to stop at that point since there are gaps between its training data).
+
+But what I think we are close too is a unification of data mining and optimization into one higher-level framework that will simplify both approaches. I think. Maybe. Come help me bumble around on this one and tell me what you think.
+
+
+
+_______
+
+# Misc Lecture notes
 
 Schema theory
