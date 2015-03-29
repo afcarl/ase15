@@ -19,20 +19,20 @@
 
 **Be Ahead of the Curve!:** What is the next "big thing" after "big data"? Well, after "data collection" comes "model construction" so the next big thing after big data will be "big modeling". In this subject, students will learn how to represent, execute, and reason about models. Our case studies will come from software engineering but the principles of this subject could be applied to models in general.
 
-**Become a Better Scientist::**
+**Be a Better Scientist:**
 This subject will teach you a **lot** about empirical methods and how to sample and test complex phenomena. So it is a great place to hone your skills as a scientist.
 
-**Become a Stats Guru**:
+**Be a Stats Guru**:
 More specifically, we will spend much effort on practical, fast, large scale statistical methods. 
 
-**Earn lots of money!!:**
+**Be employed!! For decades to come!!:**
 This subject will make you  be the world's greatest Python programmer.  And that is no bad thing:
 
 ![Python pop](http://edge.alluremedia.com.au/m/l/2014/02/codeeval2014.jpg)
 
 ![Python salaries](http://www.gobrightwing.com/wp-content/uploads/2015/03/programming-languages.jpg)
 
-**Earn lots of money!! (for decades to come):**
+
 But also, this subject could also help you stay ahead of the game for decades to come.
 This subject is a bet on the future of SE. 
 
