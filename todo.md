@@ -2,12 +2,20 @@
 
 ## For your career
 
+**Become a Better Scientist**:
+This subject will teach you a **lot** about empirical methods and how to sample and test complex phenomena. So it is a great place to hone your skills as a scientist.
+
+**Become a Stats Guru**:
+More specifically, we will spend much effort on practical, fast, large scale statistical methods. 
+
+**Earn lots of money!!:**
 To help your short term goals of earning lots on money, this subject will make you  be the world's greatest Python programmer by the time we are done.  And that is no bad thing:
 
 ![Python pop](http://edge.alluremedia.com.au/m/l/2014/02/codeeval2014.jpg)
 
 ![Python salaries](http://www.gobrightwing.com/wp-content/uploads/2015/03/programming-languages.jpg)
 
+**Earn lots of money!! (for decades to come):**
 But also, this subject could also help you stay ahead of the game for decades to come.
 This subject is a bet on the future of SE. 
 
@@ -45,13 +53,6 @@ find optimal solutions by using automatic tools to explore thousands to millions
 Note that such tools work much faster  than humans.  Without automated tools, it can take days for human experts to review just a few dozen examples.  
 In that same time, an automatic tool can explore thousands to millions to billions more solutions.  
 
-## Improve Your Skills
-
-**Become a Better Scientist**:
-This subject will teach you a **lot** about empirical methods and how to sample and test complex phenomena. So it is a great place to hone your skills as a scientist.
-
-**Become a Stats Guru**:
-More specifically, we will spend much effort on practical, fast, large scale statistical methods. 
 
 ## Study This Subject to Blow Your Mind
 
