@@ -2,8 +2,6 @@
 
 **NCSU, Fall 2015**
 
-What is the next "big thing" after "big data"? Well, after "data collection" comes "model construction" so the next big thing after big data will be "big modeling". In this subject, students will learn how to represent, execute, and reason about models. Our case studies will come from software engineering but the principles of this subject could be applied to models in general.
-
 ![Brooks](img/brookslaw.png)
 
 **Topics:** AI and software engineering; principles of model-based reasoning with a heavy focus on models about software engineering; search-based and evolutionary inference; representing and reasoning about models; handling uncertainty; decision making and model-based reasoning.
@@ -18,7 +16,9 @@ What is the next "big thing" after "big data"? Well, after "data collection" com
 
 ## For your career
 
-**Become a Better Scientist**:
+**Be Ahead of the Curve!:** What is the next "big thing" after "big data"? Well, after "data collection" comes "model construction" so the next big thing after big data will be "big modeling". In this subject, students will learn how to represent, execute, and reason about models. Our case studies will come from software engineering but the principles of this subject could be applied to models in general.
+
+**Become a Better Scientist::**
 This subject will teach you a **lot** about empirical methods and how to sample and test complex phenomena. So it is a great place to hone your skills as a scientist.
 
 **Become a Stats Guru**:
