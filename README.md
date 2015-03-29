@@ -79,7 +79,7 @@ After completing this subject, your view of the world will be radically differen
 **Evolutionary-based Computing:**
 The main tool discussed in this sibject  algorithms that explore (and sometimes combines) multiple randomly selected solutions to a program. Such evolutionary methods are very cool indeed. In 2012, the website Edge.org asked noted scientists the following question:
 
-+ [What is your favorite deep, elegant, or beautiful explanation?](http://edge.org/annual-question/what-is-your-favorite-deep-elegant-or-beautiful-explanation)
++ [What is your favorite deep, elegant, or beautiful explanation?](http://edge.org/responses/what-is-your-favorite-deep-elegant-or-beautiful-explanation)
 
 They received dozens of answers and fully a third of those responses related to evolution and natural selection. The reason was clear- in terms of requiring the least machinery and explaining the most observations, hands down, evolution is the theory of the last 200 years.
 
