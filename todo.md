@@ -1,6 +1,6 @@
 # Motivation
 
-![Brooks][img/brooksLaw.png)
+![Brooks](img/brookslaw.png)
 
 ## For your career
 
