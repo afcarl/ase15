@@ -80,14 +80,13 @@ secondary screening.
 
 Given recent advances in computing hardware, software analysts either validate these models or 
 find optimal solutions by using automatic tools to explore thousands to millions of inputs for their systems. 
-Note that such tools work much faster  than humans.  Without automated tools, it can take days for human experts to review just a few dozen examples.  
-In that same time, an automatic tool can explore thousands to millions to billions more solutions.  
+Note that such tools work much faster  than humans.  Without automated tools, it can take days for human experts to review just a few dozen examples.   In that same time, an automatic tool can explore thousands to millions to billions more solutions.  
 
 This has implications of changing the nature of human exploration of the world around them. As Philip Jia Guo says in his [Ph.D.  dissertation](http://purl.stanford.edu/mb510fs4943):
 
 <em>People across a diverse range of science, engineering, and business-related disciplines
 spend their workdays writing, executing, debugging, and interpreting the outputs
-of computer programs. Here are some examples of research programming:
+of computer programs. Here are some examples of such "research programming":
 
 + _Science:_ Computational scientists in fields ranging from bioinformatics to neuroscience
 write programs to analyze data sets and make scientific discoveries.
@@ -103,7 +102,7 @@ data to predict the merits of proposed government policies.
 + _Data-driven journalism:_ Journalists write programs to analyze economic
 data and make information visualizations to publish alongside their news stories.</em>
 
-In one form of the above the research scientist builds and explores models-- which can be a complex process that this subject aims to simplify.
+In one form of the above, the "research programmer" builds and explores models-- which can be a complex process that this subject aims to simplify.
 
 ## Study This Subject to Blow Your Mind
 
