@@ -1,7 +1,10 @@
 
-# Automated Software Engineering
+# Automated (model-based) Software Engineering
 
 **NCSU, Fall 2015**
+
+Step 1: codify your current understanding of "it" into a model.   
+Step 2: reason about that model.
 
 ![Brooks](img/brookslaw.png)
 
