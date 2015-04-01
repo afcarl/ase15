@@ -1,20 +1,21 @@
-Download sites for MOEA problems
+# Download sites for MOEA problems
+
+## General models
 
 + Classic problems, now considered somewhat quaint, but good for debugging: [moeaProblems](moeaProblems.pdf),
 + CEC 2005  Special Session on  [REal-Parameter optimization](2005-25problems.pdf);
-     + Example of their use in  a <a href="etc/pdf/hansen08.pdf">parametric optimizer</a>
+     + Example of their use in  a <a href="hansen08.pdf">parametric optimizer</a>
 + DTLZ and ZDT  are widely used. See 
   [http://jmetal.sourceforge.net/problems.html](http://jmetal.sourceforge.net/problems.html)
 
-
-SE models:
+## SE models:
 
 + [Modeller](https://github.com/nave91/modeller)
      + [XOMOk](http://menzies.us/pdf/05xomo101.pdf): software project defects,
 	          effort, time ,risk;
      + POM3: agile development:
 	   <a href="/pomNotes.pdf">notes</a>,
-		   <a href="etc/pdf/pomSampleOutput.pdf">sample output</a>,
+		   <a href="pomSampleOutput.pdf">sample output</a>,
 	 
 + [Effort estimation tuning](icse14-v5-min.py)
      + Usage: _python icse14-v5-min.py N X M1 M2 M2..._
