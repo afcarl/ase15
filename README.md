@@ -78,7 +78,7 @@ find optimal solutions by using automatic tools to explore thousands to millions
 Note that such tools work much faster  than humans.  Without automated tools, it can take days for human experts to review just a few dozen examples.  
 In that same time, an automatic tool can explore thousands to millions to billions more solutions.  
 
-This has implications of changing the nature of human exploration of the world around them. As Phillip Jua Goa says in his [Ph.D. guo_phd_dissertation](http://pgbovine.net/projects/pubs/guo_phd_dissertation.pdf):
+This has implications of changing the nature of human exploration of the world around them. As Philip Jia Guo says in his [Ph.D.  dissertation](http://pgbovine.net/projects/pubs/guo_phd_dissertation.pdf):
 
 <em>People across a diverse range of science, engineering, and business-related disciplines
 spend their workdays writing, executing, debugging, and interpreting the outputs
