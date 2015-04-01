@@ -14,7 +14,7 @@
      + [XOMOk](http://menzies.us/pdf/05xomo101.pdf): software project defects,
 	          effort, time ,risk;
      + POM3: agile development:
-	   <a href="/pomNotes.pdf">notes</a>,
+	   <a href="pomNotes.pdf">notes</a>,
 		   <a href="pomSampleOutput.pdf">sample output</a>,
 	 
 + [Effort estimation tuning](icse14-v5-min.py)
@@ -26,7 +26,7 @@
          _python icse14-v5-min.py 1 locOrNot coc81
 
 + UML (requires free registration):
-    + [Repository for Model Driven Development (ReMoDD) Overview](http://remodd.org/)
+    + [Repository for Model Driven Development (ReMoDD)](http://remodd.org/)
 
 + Feature map product lines
     + [S.P.L.O.T.](http://www.splot-research.org/)
