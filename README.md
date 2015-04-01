@@ -40,6 +40,8 @@ This subject will make you  be the world's greatest Python programmer.  And that
 
 ![Python salaries](http://www.gobrightwing.com/wp-content/uploads/2015/03/programming-languages.jpg)
 
+![Python job growth](img/RelativeGrowthPython.png)
+
 
 But also, this subject could also help you stay ahead of the game for decades to come.
 This subject is a bet on the future of SE. 
