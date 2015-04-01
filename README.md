@@ -98,6 +98,7 @@ data to predict the merits of proposed government policies.
 + _Data-driven journalism:_ Journalists write programs to analyze economic
 data and make information visualizations to publish alongside their news stories.</em>
 
+In one form of the above the research scientist builds and explores models-- which can be a complex process that this subject aims to simplify.
 
 ## Study This Subject to Blow Your Mind
 
