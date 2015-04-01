@@ -78,6 +78,26 @@ find optimal solutions by using automatic tools to explore thousands to millions
 Note that such tools work much faster  than humans.  Without automated tools, it can take days for human experts to review just a few dozen examples.  
 In that same time, an automatic tool can explore thousands to millions to billions more solutions.  
 
+This has implications of changing the nature of human exploration of the world around them. As Phillip Jua Goa says in his [Ph.D. guo_phd_dissertation](http://pgbovine.net/projects/pubs/guo_phd_dissertation.pdf)..
+
+<em>People across a diverse range of science, engineering, and business-related disciplines
+spend their workdays writing, executing, debugging, and interpreting the outputs
+of computer programs. Here are some examples of research programming:
+
++ _Science:_ Computational scientists in fields ranging from bioinformatics to neuroscience
+write programs to analyze data sets and make scientific discoveries.
++ _Engineering:_ Engineers perform experiments to optimize the efficacy of machine
+learning algorithms by testing on data sets, adjusting their code, tuning
+execution parameters, and graphing the resulting performance characteristics.
++ _Business:_ Web marketing analysts write programs to analyze clickstream data
+to decide how to improve sales and marketing strategies.
++ _Finance:_ Algorithmic traders write programs to prototype and simulate experimental
+trading strategies on financial data.
++ _Public policy:_ Analysts write programs to mine U.S. Census and labor statistics
+data to predict the merits of proposed government policies.
++ _Data-driven journalism:_ Journalists write programs to analyze economic
+data and make information visualizations to publish alongside their news stories.
+
 
 ## Study This Subject to Blow Your Mind
 
