@@ -19,6 +19,15 @@
 
 **Be Ahead of the Curve!:** What is the next "big thing" after "big data"? Well, after "data collection" comes "model construction" so the next big thing after big data will be "big modeling". In this subject, students will learn how to represent, execute, and reason about models. Our case studies will come from software engineering but the principles of this subject could be applied to models in general.
 
+**Be More Agile:**
+Humans learn best (and  fastest) via feedback from direct feedback from the domain. That is is true of agile software development as well as something else I want to call _agile science_:
+
++ The agile scientists tackles
+problems at a much higher level than a programmer. 
++ While agile programmers debug string functions, agile scientists debug theories. 
++ 
++ As such, the agile scientist tests ideas more and changes their mind more as they evolve a better undestandng of some phenomenon.
+
 **Be a Better Scientist:**
 This subject will teach you a **lot** about empirical methods and how to sample and test complex phenomena. So it is a great place to hone your skills as a scientist.
 
