@@ -31,7 +31,9 @@ Humans learn best (and  fastest) via feedback from direct feedback from the doma
 As such, the agile scientist tests ideas more and changes their mind more as they evolve a better undestandng of some phenomenon.
 
 **Be a Better Scientist:**
-This subject will teach you a **lot** about empirical methods and how to sample and test complex phenomena. So it is a great place to hone your skills as a scientist.
+This subject will teach you a **lot** about empirical methods and how to sample and test complex phenomena. For example, you will understand the  _variability_ of any conclusion made by any scientific method (so after completing this subject, the next time anyone offers you a conclusion, your initial reaction will always be "yes, but how
+brittle is that conclusion to changes in condictions?").
+That is, this subject  it is a great place to hone your skills as a scientist as well as your  critical thinking prowess.
 
 **Be a Stats Guru**:
 More specifically, we will spend much effort on practical, fast, large scale statistical methods. 
@@ -163,4 +165,15 @@ Von Neumann's Princeton group was very successfully in selling this idea to the 
 
 ### Future
 
-While Automated Model-Based 
+While AuMoBase is very old, it still has numerous pressing problems and open issues:
+
++ **Who writes the models?** Models are software and like any other piece of software, there is a skill in creating models that are undestandable and maintainable. The good news is that with the recent upsurge in interest in programming
+(e.g. ["everyone should program"](https://www.youtube.com/watch?v=nKIu9yen5nc)) there are now more people able to build and maintain modeks.
++ **How to commission a  model?**   Building a detailed model   might actually be the first time some community has ever tried to commit to the details of their shared views. So one of the challenges of AuMoBase is helping users develop a shared and mature view of their own world. This is not an easy task.
++ **How to trust a model?** Any model is an inaccurate abstraction of reality. When are the inaccuracies too unrealistic?
++ **How to fill in the model?** Many models use magic variables to operationalize the weight of some variable on another. Often, those weights are set by _engineering judgement_ (i.e. we make them up). Can we do better than that?
++ **How to run the model?** This is getting easy but there is still is an issue with slow models on how to get enough CPU time to sample the slower models-- particularly if you want to conduct repeated runs to test the stability of the conclusions reached from those models.
++ **How to trade off the goals?** Once models get more complicated, they usually offer comments on competing goals; e.g. infinitely effective health care is infinitely expensive- so where to draw the line?  In the last ten years  there has been much progress on multi- and many- objective reasoning. But this is still an area that requires further investigation.
++ **How to maintain the models?** Once built, the models have to be maintained-- again and again and again. And this is not a simple task. Old conclusions may need to be revisited and rechecked if the new model reverses older decisions. Small models grow into complex monsters with all too many special cases and quirks. 
++ **How to scope the models?**   While this  subject advoated using models, it has to be said that if they are used out-of-scope, then models become very dangerous. Models reflect the experience of the modeler or the training data used to build the model. When models are applied outside of that experience base, disasterous consequences can follow (e.g. [the model that
+killed seven American astronauts](http://spaceflightnow.com/columbia/report/inflight.html)).
