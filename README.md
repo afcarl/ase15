@@ -133,4 +133,34 @@ Now this is not a new insight. Much prior work has commented on the profound con
 
 But what I think we are close too is a unification of data mining and optimization into one higher-level framework that will simplify both approaches. I think. Maybe. Come help me bumble around on this one and tell me what you think.
 
+## History and Future of   Automated Model-Based SE
 
+### History
+
+Recall the above definition: AuMoBaSe has two steps (1)   codify your current understanding of "it" into a model; then  
+(2)   reason about that model.
+It turns out that AuMoBaSe is the oldest activity in computer science. In fact, it was the reason that
+computers were invented in the first place. To explain that, we need to go back in time to before there was SnapChat, Twitters, Facebook, the Internet, TCP/IP, operating systems, programming languages, color TV....
+
+The lesson of the 20th century is that this kind of hard-to-explore trade-off is unavoidable. For centuries, philosophers and scientists explored the Platonic goal of total rational decisions. That fell apart when:
+
++ Godel's 1930 incompleteness theorem showed that in any interesting axiomatic system (where "interesting" means "able to at least support integer arithmetic") there exists conclusions that are true, but not reachable from the premises.
++ Turing's 1937 work on the halting problem showed that, in the general case, it is not possible to decide beforehand whether or not a computer program is "hard" or "easy" (where "easy" meant "will finish processing some arbitrary input"). More specifically, the halting problem is undecidable over a Turing machine (a general description of all computational processes).
++ While this sounds like very bad news, it had a curious and profound side effect. For Godel and Turing to make their conclusions, they first had to precisely define what it meant to do "computing". That definition was precise enough to allow for the construction of the post-WWII new generation of general computers. For example, after the war at the Institute for Advanced Studies at Princeton, the engineers designing the next generation of general-purposes computers literally tore apart Turing's books (since they read them so obsessively).
++ So in a very real sense, the  legacy of Turing and Godel's work on "limits to computing" was actually a statement of "how to compute". Sure, that computational process had limits but between current human ignorance and those eventual limits lay a very useful middle zone. And in that zone, since WWII, we have built UNIX, the Internet, the open source revolution, social and ubiquitous computing, Google, Facebook, Microsoft, etc etc.
+
+One of the first pioneers to use Turing and Godel's work was John Von Neumann. Von Neumann was a towering figure in the history of the 20th century. Apart from his seminal contributions to the mathematics of shaped charges, geometry, measure theory, ergodic theory, operator theory, lattice theory, mathematical formulation of quantum mechanics, quantum logic, game theory, mathematical economics, linear programming, mathematical statistics, fluid dynamics, weather systems, etc, etc, etc, etc he also lead the computer work at Princeton's Institute for Advance Studies. He was the one who told his engineers to read Turing in such great detail. He was also a great fan of Godel's work. In his book Turing's Cathedral, Geroge Dyson documents the extraordinary efforts of Von Neumann in rescuing Godel from the pre-WWII chaos in Europe (after which, he gave Godel an office two doors down from his at Princeton).
+
+Von Neumann was the one of the first to fully appreciate the engineering implications of Turing and Godel's work. In summary, he realized that thanks to Godel and Turing, **rationality had just become an experimental science**. Given that we cannot guarantee what happens when we fire up a computer program, all we can do is "try it and see" what happens next.
+
+Von Neumann's Princeton group was very successfully in selling this idea to the American government. As a result, they had funds to build the computers needed for very large scale "try it and see" studies. At the height of their research in the 1950s, they were simulating everything from weather effects to stars to atomic bombs:
+
++ Stellar evolution: simulating the lifetime of the sun, over 1014 years;
++ Biological evolution: simulation the human life space, over 30 years;
++ Meteorology: simulating 8 hours of atmospheric effects;
++ Shock waves in ballistic: simulating events that happen in the blink of an eye;
++ Nuclear explosions: simulating events over the lifetime of a neutron in a nuclear explosion (a mere 10-8) seconds).
+
+### Future
+
+While Automated Model-Based 
