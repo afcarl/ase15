@@ -3,10 +3,21 @@
 
 **NCSU, Fall 2015**
 
-Step 1: codify your current understanding of "it" into a model.   
-Step 2: reason about that model.
+Weclome to the wonderful world of _Research Programming_:
+
++ Step 1: codify your current understanding of "it" into a model.   
++ Step 2: reason about that model.
 
 ![Brooks](img/brookslaw.png)
+
+In this subject, the nature and focus and role of software engineering changes:
+
++ Elsewhere, software engineering is about services and
+implmenting classes of existing things.
++ <img align=right width=150 src="img/dna.png"> Here, software engineering is about discovery and evolving  new classes of things.
+
+For example, other CS classes  might explore small things like strings or "hello world". Here, we explore **BIG** things like String Theory or "hello world model of climate change and economic impacts".
+
 
 **Topics:** AI and software engineering; principles of model-based reasoning with a heavy focus on models about software engineering; search-based and evolutionary inference; representing and reasoning about models; handling uncertainty; decision making and model-based reasoning.
 
