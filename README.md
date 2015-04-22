@@ -10,14 +10,15 @@ Weclome to the wonderful world of _Research Programming_:
 
 ![Brooks](img/brookslaw.png)
 
-In this subject, the nature and focus and role of software engineering changes:
+<img align=right width=250 src="img/dna.png"> 
+This subject changes the nature and focus and role of software engineering changes:
 
-+ Elsewhere, software engineering is about services and
-implmenting classes of existing things.
-+ <img align=right width=150 src="img/dna.png"> Here, software engineering is about discovery and evolving  new classes of things.
++ Elsewhere, software engineering is about services and implmenting classes .
++ Here, software engineering is about discovery and evolving  new classes of things.
 
 For example, other CS classes  might explore small things like strings or "hello world". Here, we explore **BIG** things like String Theory or "hello world model of climate change and economic impacts".
 
+# Structure
 
 **Topics:** AI and software engineering; principles of model-based reasoning with a heavy focus on models about software engineering; search-based and evolutionary inference; representing and reasoning about models; handling uncertainty; decision making and model-based reasoning.
 
