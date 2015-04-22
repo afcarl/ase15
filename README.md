@@ -13,8 +13,9 @@ Weclome to the wonderful world of _Research Programming_:
 <img align=right width=250 src="img/dna.png"> 
 This subject changes the nature and focus and role of software engineering changes:
 
-+ Elsewhere, software engineering is about services and implmenting classes .
-+ Here, software engineering is about discovery and evolving  new classes of things.
++ Elsewhere, software engineering is about services that meet requirements.
++ Here, software engineering is less about service than about search. Here, our goal is discovery of interesting features in existing models
+  (or  perhaps even the evolution of entirely new kinds of models).
 
 For example, other CS classes  might explore small things like strings or "hello world". Here, we explore **BIG** things like String Theory or "hello world model of climate change and economic impacts".
 
