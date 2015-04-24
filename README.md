@@ -1,9 +1,11 @@
 
-# Automated (model-based) Software Engineering
+# MASE = (Model-based) Automated   Software Engineering
 
 **NCSU, Fall 2015**
 
-Weclome to the wonderful world of _Research Programming_:
+Welcome to MASE (rythms with "base", pronounced "mace").
+
+Here we explore the wide wild   world of _Research Programming_:
 
 + Step 1: codify your current understanding of "it" into a model.   
 + Step 2: reason about that model.
@@ -11,13 +13,13 @@ Weclome to the wonderful world of _Research Programming_:
 ![Brooks](img/brookslaw.png)
 
 <img align=right width=250 src="img/dna.png"> 
-This subject changes the nature and focus and role of software engineering changes:
+MASE changes the nature and focus and role of software engineering changes:
 
 + Elsewhere, software engineering is about services that meet requirements.
-+ Here, software engineering is less about service than about search. Here, our goal is discovery of interesting features in existing models
++ But with MASE, software engineering is less about service than about search. MASE's goal is discovery of interesting features in existing models
   (or  perhaps even the evolution of entirely new kinds of models).
 
-For example, other CS classes  might explore small things like strings or "hello world". Here, we explore **BIG** things like String Theory or "hello world model of climate change and economic impacts".
+For example, other CS classes  might explore small things like strings or "hello world". But with MASE, we explore **BIG** things like String Theory or "hello world model of climate change and economic impacts".
 
 # Structure
 
@@ -148,13 +150,13 @@ Now this is not a new insight. Much prior work has commented on the profound con
 
 But what I think we are close too is a unification of data mining and optimization into one higher-level framework that will simplify both approaches. I think. Maybe. Come help me bumble around on this one and tell me what you think.
 
-## History and Future of   Automated Model-Based SE
+## History and Future of   MASE
 
 ### History
 
-Recall the above definition: AuMoBaSe has two steps (1)   codify your current understanding of "it" into a model; then  
+Recall the above definition: MASE has two steps (1)   codify your current understanding of "it" into a model; then  
 (2)   reason about that model.
-It turns out that AuMoBaSe is the oldest activity in computer science. In fact, it was the reason that
+It turns out that MASE is the oldest activity in computer science. In fact, it was the reason that
 computers were invented in the first place. To explain that, we need to go back in time to before there was SnapChat, Twitters, Facebook, the Internet, TCP/IP, operating systems, programming languages, color TV....
 
 The lesson of the 20th century is that this kind of hard-to-explore trade-off is unavoidable. For centuries, philosophers and scientists explored the Platonic goal of total rational decisions. That fell apart when:
@@ -178,7 +180,7 @@ Von Neumann's Princeton group was very successfully in selling this idea to the 
 
 ### Future
 
-While AuMoBase is very old, it still has numerous pressing problems and open issues:
+While MASE is very old, it still has numerous pressing problems and open issues:
 
 + **Who writes the models?** Models are software and like any other piece of software, there is a skill in creating models that are undestandable and maintainable. The good news is that with the recent upsurge in interest in programming
 (e.g. ["everyone should program"](https://www.youtube.com/watch?v=nKIu9yen5nc)) there are now more people able to build and maintain modeks.
