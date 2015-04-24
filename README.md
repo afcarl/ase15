@@ -3,7 +3,7 @@
 
 **NCSU, Fall 2015**
 
-<img align=right src="img/mace.png">
+<img align=left src="img/mace.png">
 Welcome to MASE (rhymes with "base", pronounced like "mace").
 
 Here we explore the wide wild   world of _Research Programming_:
