@@ -16,20 +16,23 @@
      + POM3: agile development:
 	   <a href="pomNotes.pdf">notes</a>,
 		   <a href="pomSampleOutput.pdf">sample output</a>,
-	 
-+ [Effort estimation tuning](icse14-v5-min.py)
-     + Usage: _python icse14-v5-min.py N X M1 M2 M2..._
-         + _N_: how many times to loop; e.g. 10
-         + _X_: experiment; e.g. locOrNot
-         + _M1, M2_: models; e.g. coc81
-     + Test case (relative fast, just to see if it works)  
-         _python icse14-v5-min.py 1 locOrNot coc81
 
-+ UML (requires free registration):
-    + [Repository for Model Driven Development (ReMoDD)](http://remodd.org/)
-
-+ Feature map product lines
++ UML (warning- may be usable for search sicne they often lack constrainit
+  or opinion or goal knowledge):
+    + [Repository for Model Driven Development (ReMoDD)](http://remodd.org/): requires free registration)
+    + [GenMyModel](https://repository.genmymodel.com/public/0) 
++ Feature map product lines (usually contain constraint knowledge).
     + [S.P.L.O.T.](http://www.splot-research.org/)
-
 + Constraint models
     + [Clafer](http://t3-necsis.cs.uwaterloo.ca:8091/)
++ Roll your own:
+    + Use evolutionary programs to tune params of 
+      some auto-generated model; e.g. from a machine learner.
+    + e.g. [Effort estimation tuning](icse14-v5-min.py)
+         + Usage: _python icse14-v5-min.py N X M1 M2 M2..._
+             + _N_: how many times to loop; e.g. 10
+             + _X_: experiment; e.g. locOrNot
+             + _M1, M2_: models; e.g. coc81
+         + Test case (relative fast, just to see if it works)  
+           _python icse14-v5-min.py 1 locOrNot coc81_
+    
