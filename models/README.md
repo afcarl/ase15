@@ -15,8 +15,7 @@
 	          effort, time ,risk;
      + POM3: agile development:
 	   <a href="pomNotes.pdf">notes</a>,
-		   <a href="pomSampleOutput.pdf">sample output</a>,
-
+		   <a href="pomSampleOutput.pdf">sample output</a>
 + UML (warning- may be usable for search sicne they often lack constrainit
   or opinion or goal knowledge):
     + [Repository for Model Driven Development (ReMoDD)](http://remodd.org/): requires free registration)
