@@ -3,7 +3,8 @@
 
 **NCSU, Fall 2015**
 
-Welcome to MASE (rythms with "base", pronounced "mace").
+<img align=right src="img/mace.png">
+Welcome to MASE (rhymes with "base", pronounced like "mace").
 
 Here we explore the wide wild   world of _Research Programming_:
 
