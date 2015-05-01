@@ -24,6 +24,8 @@
     + [S.P.L.O.T.](http://www.splot-research.org/)
 + Constraint models
     + [Clafer](http://t3-necsis.cs.uwaterloo.ca:8091/)
++ Test suite generation:
+     + Via [mutation operators](https://www.st.cs.uni-saarland.de/publications/files/fraser-issta-2010.pdf)
 + Roll your own:
     + Use evolutionary programs to tune params of 
       some auto-generated model; e.g. from a machine learner.
